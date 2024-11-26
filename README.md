@@ -1,4 +1,4 @@
-👋 Hi, I’m @burnaghost 👀
+👋 Hi, I’m Burna Ghost
 I’m interested in coding 🌱 
 I’m currently learning ...python 
 💞️ I’m looking to collaborate on my py project 📫 
